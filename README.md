@@ -1,14 +1,13 @@
 # POO2 – Diseño Orientado a Objetos
 
-## Descripción
-
 Este proyecto fue desarrollado en **Java** como parte de un trabajo académico para la materia 'Programación con Objetos 2' en la UNQ, con el objetivo de aplicar de forma práctica los **principios SOLID** y distintos **patrones de diseño**.  
+
 El sistema modela un dominio complejo dividiendo responsabilidades, promoviendo bajo acoplamiento y alta cohesión, y priorizando la extensibilidad y mantenibilidad del código.
 
 Durante el desarrollo se hizo especial énfasis en el diseño, más que en la implementación puntual de funcionalidades.
 
 
-## Estructura
+## 🧩 Estructura
 
 El proyecto se organiza en paquetes que representan distintas responsabilidades del dominio:
 
@@ -22,7 +21,7 @@ El proyecto se organiza en paquetes que representan distintas responsabilidades 
 Esta separación permite aplicar correctamente principios como **Single Responsibility** y **Open/Closed**.
 
 
-## Patrones de Diseño Aplicados
+## 🧠 Patrones de Diseño Aplicados
 
 En el proyecto se utilizaron los siguientes patrones de diseño:
 
@@ -36,7 +35,7 @@ En el proyecto se utilizaron los siguientes patrones de diseño:
 Estos patrones fueron aplicados respetando los principios SOLID y buenas prácticas de POO.
 
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Modelado completo del dominio utilizando POO.
 - Comportamientos dinámicos mediante patrones de diseño.
